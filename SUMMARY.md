@@ -1,0 +1,7 @@
+* [android simpleperf](android_simpleperf.md)
+* [完整版perf](kernel_perf.md)
+* [android代码在线搜索](android_codesearch_online.md)
+* [fiq调试模式](fiq_debug.md)
+* [smatch代码静态检查](smatch_code_check.md)
+* [coccinelle代码静态检查](coccinelle_code_check.md)
+* [命令行调整时钟](check_clocks_on_shell.md)
